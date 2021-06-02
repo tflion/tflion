@@ -7,16 +7,16 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21"> Hi guys! 
 <hr>My name is Thales Leão and I'm 19.
 <br> 🌆 I'm from Brazil, living in Belo Horizonte and currently work at PRODEMGE.
-<br>🎮 In my free time I play video games while I listen trap and acoustic. 🎶<hr>
-<font size="4"> <b>🤠 About me</b> </font>
+<br>🎮 In my free time I play video games while I listen Trap and Acoustic. 🎶<hr>
+<font size="8"> <b>🤠 About me</b> </font>
 
-<br>> 🏢 Development intern at <b>PRODEMGE</b>
+<br>> 🏢 Development Intern at <b>PRODEMGE</b>
 <br>> 🎓 Graduated in I.T technician by <b>SENAI</b>
 <br>> 📚 Studying bachelor's degree in Information Systems at <b>Centro Universitário Estácio</b>
 <br>> 💬 Any doubts I am available!
 
 <hr>
-<font size="4"> <b>🛠 Technologies and Tools</b> </font>
+<font size="8"> <b>🛠 Technologies and Tools</b> </font>
 
 <br>![](https://img.shields.io/badge/OS-Windows-af54ff?style=for-the-badge&logo=windows)
 ![](https://img.shields.io/badge/code-c%23-af54ff?style=for-the-badge&logo=c-sharp)
@@ -24,7 +24,7 @@
 ![](https://img.shields.io/badge/framework-.Net-af54ff?style=for-the-badge&logo=dot-net)
 <hr>
 
-<font size="4"> <b>📊 GitHub Stats</b> </font>´
+<font size="8"> <b>📊 GitHub Stats</b> </font>
 <br>
 
 <a href="https://github.com/tflion/tflion">
@@ -35,6 +35,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tflion&show_icons=trueline_height=25&count_private=true&title_color=af54ff&text_color=ff8000&icon_color=af54ff&bg_color=32085c" alt="Martin's GitHub Stats" />
 </a>
 <br>
-
-
-
