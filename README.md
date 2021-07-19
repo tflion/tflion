@@ -6,7 +6,7 @@
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21"> Hi guys! 
 <hr>My name is Thales Leão and I'm 19.
-<br> 🌆 I'm from Brazil, living in Belo Horizonte and currently work at dti digital.
+<br> 🌆 I'm from Brazil, living in Belo Horizonte and currently work @ dti digital.
 <br>🎮 In my free time I play video games while I listen Trap and Acoustic. 🎶<hr>
 <font size="8"> <b>🤠 About me</b> </font>
 
