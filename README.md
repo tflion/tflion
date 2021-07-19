@@ -6,11 +6,11 @@
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21"> Hi guys! 
 <hr>My name is Thales Leão and I'm 19.
-<br> 🌆 I'm from Brazil, living in Belo Horizonte and currently work @ dti digital.
+<br> 🌆 I'm from Brazil, living in Belo Horizonte and currently work at dti digital.
 <br>🎮 In my free time I play video games while I listen Trap and Acoustic. 🎶<hr>
 <font size="8"> <b>🤠 About me</b> </font>
 
-<br>> 🏢 Development Intern at <b>PRODEMGE</b>
+<br>> 🏢 Development Intern @ <b>dti digital</b>
 <br>> 🎓 Graduated in I.T technician by <b>SENAI</b>
 <br>> 📚 Studying bachelor's degree in Information Systems at <b>Centro Universitário Estácio</b>
 <br>> 💬 Any doubts I am available!
